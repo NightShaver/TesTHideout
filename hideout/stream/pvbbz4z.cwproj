@@ -1,0 +1,70 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>hideout\stream\ali_hideout_milo.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>hideout\stream\ali_generator.ytyp</Item>
+    <Item>hideout\stream\ali_props.ytyp</Item>
+    <Item>hideout\stream\raresy_hideout_fence.ytyp</Item>
+  </YtypFilenames>
+  <YbnFilenames>
+    <Item>hideout\stream\ali_hideout_shell.col.ybn</Item>
+    <Item>hideout\stream\hideout_shell.col.ybn</Item>
+  </YbnFilenames>
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+  <YdrFilenames>
+    <Item>hideout\stream\ali_ba_curtain1.ydr</Item>
+    <Item>hideout\stream\ali_bookshelf.ydr</Item>
+    <Item>hideout\stream\ali_cleaner.ydr</Item>
+    <Item>hideout\stream\ali_clipboard.ydr</Item>
+    <Item>hideout\stream\ali_construction_lamp.ydr</Item>
+    <Item>hideout\stream\ali_desk_lamp.ydr</Item>
+    <Item>hideout\stream\ali_floorlamp.ydr</Item>
+    <Item>hideout\stream\ali_gastank.ydr</Item>
+    <Item>hideout\stream\ali_greenboard.ydr</Item>
+    <Item>hideout\stream\ali_gunrack.ydr</Item>
+    <Item>hideout\stream\ali_hideout_shell.ydr</Item>
+    <Item>hideout\stream\ali_kitchen_unit.ydr</Item>
+    <Item>hideout\stream\ali_maindesk.ydr</Item>
+    <Item>hideout\stream\ali_metalplate.ydr</Item>
+    <Item>hideout\stream\ali_money_counter.ydr</Item>
+    <Item>hideout\stream\ali_powerbox.ydr</Item>
+    <Item>hideout\stream\ali_shelf.ydr</Item>
+    <Item>hideout\stream\ali_smallobjects.ydr</Item>
+    <Item>hideout\stream\ali_storage_shelf.ydr</Item>
+    <Item>hideout\stream\ali_straight_vent.ydr</Item>
+    <Item>hideout\stream\ali_straight_vent2.ydr</Item>
+    <Item>hideout\stream\ali_straight_vent3.ydr</Item>
+    <Item>hideout\stream\ali_toilet_posters.ydr</Item>
+    <Item>hideout\stream\ali_tvstand.ydr</Item>
+    <Item>hideout\stream\ali_vent_ecke.ydr</Item>
+    <Item>hideout\stream\ali_warderobe.ydr</Item>
+    <Item>hideout\stream\hideout_shell.ydr</Item>
+    <Item>hideout\stream\johann_bedroom_mirror.ydr</Item>
+    <Item>hideout\stream\johann_bollard.ydr</Item>
+    <Item>hideout\stream\johann_fileboxa.ydr</Item>
+    <Item>hideout\stream\johann_pinboard.ydr</Item>
+    <Item>hideout\stream\johann_plans.ydr</Item>
+    <Item>hideout\stream\johann_schrank01.ydr</Item>
+    <Item>hideout\stream\johann_tvstand01.ydr</Item>
+    <Item>hideout\stream\johann_wallunit01.ydr</Item>
+    <Item>hideout\stream\raresy_hideout_fence.ydr</Item>
+    <Item>hideout\stream\raresy_toilette.ydr</Item>
+  </YdrFilenames>
+  <YddFilenames />
+  <YftFilenames>
+    <Item>hideout\stream\ali_medbottles.yft</Item>
+    <Item>hideout\stream\ali_testtubes.yft</Item>
+  </YftFilenames>
+  <YtdFilenames>
+    <Item>hideout\stream\ali_props (1).ytd</Item>
+    <Item>hideout\stream\ali_props.ytd</Item>
+    <Item>hideout\stream\johann_texturen.ytd</Item>
+  </YtdFilenames>
+</CodeWalkerProject>

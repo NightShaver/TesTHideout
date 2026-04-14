@@ -1,0 +1,93 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>ali_hideout_milo.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>ali_generator.ytyp</Item>
+    <Item>ali_props.ytyp</Item>
+    <Item>collection.ytyp</Item>
+    <Item>raresy_hideout_fence.ytyp</Item>
+  </YtypFilenames>
+  <YbnFilenames>
+    <Item>ali_hideout_shell.col.ybn</Item>
+    <Item>hideout_shell.col.ybn</Item>
+  </YbnFilenames>
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+  <YdrFilenames>
+    <Item>ali_ba_curtain1.ydr</Item>
+    <Item>ali_bookshelf.ydr</Item>
+    <Item>ali_cleaner.ydr</Item>
+    <Item>ali_clipboard.ydr</Item>
+    <Item>ali_construction_lamp.ydr</Item>
+    <Item>ali_desk_lamp.ydr</Item>
+    <Item>ali_floorlamp.ydr</Item>
+    <Item>ali_gastank.ydr</Item>
+    <Item>ali_greenboard.ydr</Item>
+    <Item>ali_gunrack.ydr</Item>
+    <Item>ali_hideout_shell.ydr</Item>
+    <Item>ali_kitchen_unit.ydr</Item>
+    <Item>ali_maindesk.ydr</Item>
+    <Item>ali_metalplate.ydr</Item>
+    <Item>ali_money_counter.ydr</Item>
+    <Item>ali_powerbox.ydr</Item>
+    <Item>ali_shelf.ydr</Item>
+    <Item>ali_smallobjects.ydr</Item>
+    <Item>ali_storage_shelf.ydr</Item>
+    <Item>ali_straight_vent.ydr</Item>
+    <Item>ali_straight_vent2.ydr</Item>
+    <Item>ali_straight_vent3.ydr</Item>
+    <Item>ali_toilet_posters.ydr</Item>
+    <Item>ali_tvstand.ydr</Item>
+    <Item>ali_vent_ecke.ydr</Item>
+    <Item>ali_warderobe.ydr</Item>
+    <Item>hd_bett.ydr</Item>
+    <Item>hd_bitcoinminer.ydr</Item>
+    <Item>hd_computer.ydr</Item>
+    <Item>hd_couch.ydr</Item>
+    <Item>hd_funkstation.ydr</Item>
+    <Item>hd_schliessfach.ydr</Item>
+    <Item>hd_schrank.ydr</Item>
+    <Item>hd_staender.ydr</Item>
+    <Item>hd_vietrine.ydr</Item>
+    <Item>hideout_shell.ydr</Item>
+    <Item>johann_bedroom_mirror.ydr</Item>
+    <Item>johann_bollard.ydr</Item>
+    <Item>johann_fileboxa.ydr</Item>
+    <Item>johann_pinboard.ydr</Item>
+    <Item>johann_plans.ydr</Item>
+    <Item>johann_schrank01.ydr</Item>
+    <Item>johann_tvstand01.ydr</Item>
+    <Item>johann_wallunit01.ydr</Item>
+    <Item>noot.ydr</Item>
+    <Item>prop_2cd4dc71.ydr</Item>
+    <Item>raresy_hideout_fence.ydr</Item>
+    <Item>raresy_toilette.ydr</Item>
+  </YdrFilenames>
+  <YddFilenames />
+  <YftFilenames>
+    <Item>ali_medbottles.yft</Item>
+    <Item>ali_testtubes.yft</Item>
+  </YftFilenames>
+  <YtdFilenames>
+    <Item>ali_props (1).ytd</Item>
+    <Item>ali_props.ytd</Item>
+    <Item>hd_bett.ytd</Item>
+    <Item>hd_bitcoinminer.ytd</Item>
+    <Item>hd_computer.ytd</Item>
+    <Item>hd_couch.ytd</Item>
+    <Item>hd_funkstation.ytd</Item>
+    <Item>hd_schliessfach.ytd</Item>
+    <Item>hd_schrank.ytd</Item>
+    <Item>hd_staender.ytd</Item>
+    <Item>hd_vietrine.ytd</Item>
+    <Item>johann_texturen.ytd</Item>
+    <Item>noot.ytd</Item>
+    <Item>prop_2cd4dc71.ytd</Item>
+  </YtdFilenames>
+</CodeWalkerProject>
